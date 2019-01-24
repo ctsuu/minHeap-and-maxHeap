@@ -1,5 +1,6 @@
 # minHeap-and-maxHeap
 minHeap and maxHeap in python notebook
+Refer to https://github.com/joeyajames/Python
 
 Locate parent and child
 for example
@@ -27,3 +28,5 @@ Pop:
 -Bobble down the item at index to it's proper position
 -return max or min
 ```
+
+For C++ implementation, refer to https://www.techiedelight.com/min-heap-max-heap-implementation-c/
